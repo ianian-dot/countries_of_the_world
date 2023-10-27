@@ -10,6 +10,7 @@ The simplicity of this tabular dataset also provides me a great starting point f
 * etc
 
 # Modelling 
+* clustering 
 * linear models, lasso selection
 * non linear methods: GAMs
 * neural networks
